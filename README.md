@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-[Solution](https://phoenixMputu.github.io/huddle-landing-page with-alternating-feature-blocks-solution)
+[Solution](https://phoenixMputu.github.io/huddle-landing-page-with-alternating-feature-blocks-solution)
 
 ## My process
 
