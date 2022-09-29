@@ -10,7 +10,6 @@ This is a solution to the [Huddle landing page with alternating feature blocks c
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
 - [Author](#author)
 
 ## Overview
@@ -30,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-[Solution](https://phoenixMputu.github.io/huddle-landing-page-with-alternating-feature-blocks-solution)
+[Solution](https://phoenixmputu.github.io/huddle-landing-page-with-alternating-feature-blocks)
 
 ## My process
 
